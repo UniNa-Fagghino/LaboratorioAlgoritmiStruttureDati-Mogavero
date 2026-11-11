@@ -1,0 +1,50 @@
+Messaggio mandato su Teams dal prof:
+
+
+Indietro
+
+Non consegnato
+
+Consegna
+Traccia Progetto Appello di Gennaio 2027 - Solo Studenti LASD
+Scade il 20 dicembre 2026 23:59
+•
+Consentite consegne multiple
+•
+Chiude il 20 dicembre 2026 23:59
+Istruzioni
+Gli studenti iscritti al vecchio corso di LASD ormai soppresso devono attenersi alla traccia riportata nel documento Exercise.pdf qui allegato.
+
+Unitamente alla traccia troverete anche il file Template.zip contenente il template a cui attenersi **scrupolosamente**:
+
+- Non modificare la struttura logica riportata nel diagramma delle interfacce/classi fornito;
+- Non modificare la struttura delle cartelle;
+- Non modificare i nomi dei file;
+- Non modificare i nomi delle classi pubbliche;
+- Non modificare le firme dei metodi pubblici;
+- Non modificare i metodi di test in zapsdtest.
+
+Si ricorda che la cartella zapsdtest contiene solo un semplice testset, che andrà esteso in modo da assicurarsi che il
+codice consegnato non contenga errori.
+
+La consegna dovrà consistere di un unico file zip contenente una cartella avente nome coerente con il formato
+"Cognome - Nome - Matricola", al cui interno dovranno essere presenti le sole cartelle apsd e zapsdtest e i due
+file Main.java e makefile.
+
+Se il codice non compila o sono presenti errori nel simpletest, l'elaborato verrà valutato immediatamente insufficiente.
+Analogamente sarà insufficiente se i requisiti sopra elencati non verranno rispettati.
+Materiale di riferimento
+
+Template.zip
+
+
+Exercise.pdf
+
+Il mio lavoro
+
+Allega
+Carica da questo dispositivo
+Nessun file scelto
+Nuovo
+Punti
+Nessun punteggio
