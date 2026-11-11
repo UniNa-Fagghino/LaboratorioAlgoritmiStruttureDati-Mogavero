@@ -1,0 +1,53 @@
+# ==============================================================================
+# Java & Compilazione
+# ==============================================================================
+*.class
+
+# Esclusione JAR generici MA tracciamento obbligatorio di quelli del testframework forniti dal docente
+*.jar
+!ProgettoLASD/zapsdtest/zjunit/*.jar
+
+# ==============================================================================
+# Pacchetti di consegna generati per l'esame (Cognome - Nome - Matricola)
+# ==============================================================================
+* - * - *
+* - * - *.zip
+
+# ==============================================================================
+# File di sistema operativo e desktop
+# ==============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# ==============================================================================
+# File temporanei, editor e IDE
+# ==============================================================================
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+~$*
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+bin/
+
+# ==============================================================================
+# Log e directory di supporto
+# ==============================================================================
+*.log
+scratch/
+.system_generated/
+
